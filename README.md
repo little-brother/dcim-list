@@ -5,6 +5,7 @@
 - [CENTEROS DCIM](#centeros) by CENTEROS
 - [Cormant-CS](#cormant) by Cormant
 - [Datacenter Clarity LC DCIM](#clarity) by Siemens
+- [Decathlon for Data Centers](#decathlon) by ABB
 - [Delta InfraSuite](#delta) by Delta Power Solutions
 - [Device42](#device42) by Device42
 - [eMagic DCIM](#emagic) by esds :ng:
@@ -67,6 +68,11 @@
 
 :arrow_forward: [Official demo](https://youtu.be/6IvzMlW2HjQ)<br />
 :orange_book: [Datacenter Clarity LC for colocation owners and tenants](https://www.downloads.siemens.com/download-center/Download.aspx?pos=download&fct=getasset&id1=A6V10576517)
+
+## <a name = "decathlon"></a> [Decathlon for Data Centers](http://new.abb.com/cpm/decathlon-software/decathlon-datacenters) by ABB
+> Decathlon for Data Centers is ABB’s industrial DCIM system for on-premise and hybrid cloud environments. At a base level, it is an integration and automation platform to enable transparency and interoperability for continuous optimization and high availability.
+
+:link: [Resources by request](http://new.abb.com/cpm/decathlon-software/decathlon-datacenters/introducing)
 
 ## <a name = "delta"></a> [Delta InfraSuite](http://www.deltapowersolutions.com/en/mcis/data-center.php) by Delta Power Solutions
 > Real-time access to secure and reliable data is crucial in today’s competitive global business environment. Delta has developed a new generation of tier 3 data center solutions or above that allow companies to achieve this essential goal of high level of data center reliability. Our data center design provides IT managers with the exact tools and capabilities they need in order to effectively organize the various servers within a company.
