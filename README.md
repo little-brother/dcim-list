@@ -4,8 +4,8 @@
 - [AixBOMS DCIM](#aixboms) by Aixpertsoft
 - [CENTEROS DCIM](#centeros) by CENTEROS
 - [Cormant-CS](#cormant) by Cormant
-- [Delta InfraSuite](#delta) by Delta Power Solutions
 - [Datacenter Clarity LC DCIM](#clarity) by Siemens
+- [Delta InfraSuite](#delta) by Delta Power Solutions
 - [Device42](#device42) by Device42
 - [eMagic DCIM](#emagic) by esds :ng:
 - [Foster Environmental DCIM](#foster) by Foster Environmental :ng:
@@ -18,12 +18,13 @@
 - [netTerrain DCIM](#netterrain) by Graphical Networks 
 - [NetZoomDC](#netzoomdc) by Altima Technologies
 - [Nlyte DCIM](#nlyte) by Nlyte Software 
+- [Ni2 DCIM](#ni2) by Ni2 :ng:
 - [ONEDC](#onedc) by NextDC
 - [OpenData](#opendata) by Modius
 - [openDCIM](#opendcim) by openDCIM Foundation
 - [Perf-IT DCIM](#perfit) by Perf-IT
-- [PowerDCM](#powerdcm) by AIT Partnership Group Ltd
 - [Power IQ DCIM](#poweriq) by Raritan
+- [PowerDCM](#powerdcm) by AIT Partnership Group Ltd
 - [PYXIS DCIM Lite](#pyxis) by Jacarta
 - [Rackwise DCIM](#rackwise) by Rackwise
 - [RAMP DCIM](#ramp) by No Limits Software
@@ -36,7 +37,6 @@
 - [CA DCIM](#ca) by CA
 - [Concurrent Thinking DCIM](#concurrent) by Concurrent Thinking Ltd
 - [FieldView DCIM](#fieldview) by FieldView Solutions 
-- [Ni2 DCIM](#ni2) by Ni2
 - [Noclayer DCIM](#noclayer) by Noclayer
 
 ## Additional information
@@ -62,16 +62,16 @@
 > Cormant-CS is a complete DCIM solution that delivers unmatched functionality, intuitive ease of use, and rapid return on investment.
 > Capacity Management, IT Equipment Management, Connectivity, Analytics, Power and Environmental Management, Workflow Change Management, Mobility
 
-## <a name = "delta"></a> [Delta InfraSuite](http://www.deltapowersolutions.com/en/mcis/data-center.php) by Delta Power Solutions
-> Real-time access to secure and reliable data is crucial in today’s competitive global business environment. Delta has developed a new generation of tier 3 data center solutions or above that allow companies to achieve this essential goal of high level of data center reliability. Our data center design provides IT managers with the exact tools and capabilities they need in order to effectively organize the various servers within a company.
-
-:arrow_forward: [Promo video](https://youtu.be/hpkLdzvmjWY)
-
 ## <a name = "clarity"></a> [Datacenter Clarity LC DCIM](http://w3.siemens.com/topics/global/en/data-centers/pages/data-centers.aspx) by Siemens (Atos) 
 > Datacenter Clarity LC™ allows colocation owners to increase the efficiency of their data centers through advanced monitoring, automated billback reporting and SLA management. It offers colocation tenants real-time insight into their assets and their SLA compliance
 
 :arrow_forward: [Official demo](https://youtu.be/6IvzMlW2HjQ)<br />
 :orange_book: [Datacenter Clarity LC for colocation owners and tenants](https://www.downloads.siemens.com/download-center/Download.aspx?pos=download&fct=getasset&id1=A6V10576517)
+
+## <a name = "delta"></a> [Delta InfraSuite](http://www.deltapowersolutions.com/en/mcis/data-center.php) by Delta Power Solutions
+> Real-time access to secure and reliable data is crucial in today’s competitive global business environment. Delta has developed a new generation of tier 3 data center solutions or above that allow companies to achieve this essential goal of high level of data center reliability. Our data center design provides IT managers with the exact tools and capabilities they need in order to effectively organize the various servers within a company.
+
+:arrow_forward: [Promo video](https://youtu.be/hpkLdzvmjWY)
 
 ## <a name = "device42"></a> [Device42](http://www.device42.com/features/) by Device42
 > Device42 is comprehensive data center management software that integrates server room asset management, IP address management, password management and application impact analysis in a single web console.
@@ -159,6 +159,9 @@
 :arrow_forward: [nlyte Data Center Infrastructure Management Webinar, Part 2 2011 by RightstarTV](https://youtu.be/7BxHlfw-rPo)<br />
 :arrow_forward: [nlyte Software Demonstration by PTS Data Center Solutions](https://youtu.be/tjRatYHT5DI)
 
+## <a name = "ni2"></a> [Ni2 DCIM](http://www.ni2.com/Solutions.html) by Ni2
+:arrow_forward: [Official demo](https://youtu.be/STC83781gTg)
+
 ## <a name = "onedc"></a> [ONEDC](http://www.nextdc.com/services/dcim) by NextDC
 > ONEDC is a cloud based DCIM service. It delivers real-time data centre intelligence to help you manage your data centre assets.
 > Providing a single, centralised view through the one intuitive platform, ONEDC tracks every aspect of your data centre assets in real-time, whilst your data remains private and secure.
@@ -185,6 +188,15 @@
 
 :link: [Official youtube channel](https://www.youtube.com/channel/UCXrIAKUzGkRgOP9Z7q0QMYg/videos?shelf_id=0&view=0&sort=dd)
 
+## <a name = "poweriq"></a> [Power IQ DCIM](http://www.raritan.com/products/dcim-software/power-iq) by Raritan
+> Power IQ DCIM Monitoring Software enables data center and facility managers to closely monitor and efficiently utilize their existing data center power infrastructure. Data center health maps, power analytics, cooling charts, and reports alert you to potential trouble, and help you understand real-time power load, trends, and capacity at all levels of infrastructure. A configurable dashboard provides vendor agnostic views of power capacity, environmental health, and energy consumption. Get single-click access to rack power, cooling, airflow, events, and much more.
+> 
+> dcTrack DCIM Operations Software is now being sold by our partner, Sunbird Software.
+
+:orange_book: [Data sheets](http://ram.raritanassets.com/resources/data_sheets/raritan-ds-poweriq-low-res.pdf)<br />
+:arrow_forward: [Raritan BCM2 and Power IQ by Power IQ DCIM Monitoring](https://youtu.be/Mqg4d6nheaM)<br />
+:arrow_forward: [Power IQ DCIM Monitoring - How to Create a Mibwalk File by Power IQ DCIM Monitoring](https://youtu.be/2e2fQerdya0)
+
 ## <a name = "powerdcm"></a> [PowerDCM](https://www.ait-pg.co.uk/solutions-and-services/data-centre-infrastructure/infrastructure-management-software/) by AIT Partnership Group Ltd
 > AIT software provides a central platform and dashboard to monitor and control your estate wide infrastructure such as branch offices, wiring closets, industrial appliances and street cabinets.
 > - Predict failure by monitoring temperatures in remote equipment racks
@@ -194,15 +206,6 @@
 > Based on Intel DCM
 
 :arrow_forward: [Quick Introduction](https://youtu.be/Z_g9WW617Mc)
-
-## <a name = "poweriq"></a> [Power IQ DCIM](http://www.raritan.com/products/dcim-software/power-iq) by Raritan
-> Power IQ DCIM Monitoring Software enables data center and facility managers to closely monitor and efficiently utilize their existing data center power infrastructure. Data center health maps, power analytics, cooling charts, and reports alert you to potential trouble, and help you understand real-time power load, trends, and capacity at all levels of infrastructure. A configurable dashboard provides vendor agnostic views of power capacity, environmental health, and energy consumption. Get single-click access to rack power, cooling, airflow, events, and much more.
-> 
-> dcTrack DCIM Operations Software is now being sold by our partner, Sunbird Software.
-
-:orange_book: [Data sheets](http://ram.raritanassets.com/resources/data_sheets/raritan-ds-poweriq-low-res.pdf)<br />
-:arrow_forward: [Raritan BCM2 and Power IQ by Power IQ DCIM Monitoring](https://youtu.be/Mqg4d6nheaM)<br />
-:arrow_forward: [Power IQ DCIM Monitoring - How to Create a Mibwalk File by Power IQ DCIM Monitoring](https://youtu.be/2e2fQerdya0)
 
 ## <a name = "pyxis"></a> [PYXIS DCIM Lite](http://www.jacarta.com/pyxis-dcim-lite) by Jacarta
 > PYXIS is a powerful monitoring application that enables Data Centre Managers to collect, record, display and analyse critical performance data from IT infrastructure and facilities equipment. PYXIS has been designed to offer many of the key benefits of a full-blown DCIM solution but at a fraction of the cost.
@@ -277,9 +280,6 @@
 ## <a name = "fieldview"></a> FieldView DCIM by FieldView Solutions 
 > [Nlyte Software Acquires FieldView Solutions](http://www.nlyte.com/company/press-releases/news-item/nlyte-software-acquires-fieldview-solutions/)
 > See [Nlyte DCIM](#nlyte)
-
-## <a name = "ni2"></a> Ni2 DCIM by Ni2
-:arrow_forward: [Official demo](https://youtu.be/STC83781gTg)
 
 ## <a name = "noclayer"></a> [Noclayer DCIM](http://www.noclayer.com/) by Noclayer
 > Noclayer is a software designed to manage devices and equipment in a data center. The main goal is to provide information about each device in the rack. Therefore, we concentrated on the concept of developing and upgrading capabilities that each device has. An intuitive web interface provides a visual view of the cabinets, as well as drag & drop layout devices
