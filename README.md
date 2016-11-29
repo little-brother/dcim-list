@@ -1,6 +1,7 @@
 # Contents
 
 ## Active players
+- [Aegis DCIM](#aegis) by Conteg
 - [AixBOMS DCIM](#aixboms) by Aixpertsoft
 - [CENTEROS DCIM](#centeros) by CENTEROS
 - [Cormant-CS](#cormant) by Cormant
@@ -47,6 +48,11 @@
 ---
 
 # Active players
+
+## <a name = "aegis"></a> [Aegis DCIM](http://www.conteg.com/aegis-dcim-en) by Conteg
+>  Conteg's Aegis (DCIM) system collects, analyzes, reports and manages infrastructure equipment in real-time using standardized data communication protocols. Aegis DCIM is designed to operate with all types of devices, equipment and third-party software applications. Conteg offers three DCIM variants: SERVER ROOM, ENTERPRISE and GLOBAL.
+
+:orange_book: [Data sheets](http://www.conteg.ru/files/1/soubory/EN/Datasheets/Complementary-systems/DS-aegis-dcim-en.pdf)
 
 ## <a name = "aixboms"></a> [AixBOMS DCIM](http://www.aixpertsoft.de/aixboms_app_dm) by Aixpertsoft
 >  AixBOMS Data Center Management provides a CMDB-based application within an integrated user interface which comprises area and layout plans, rack management and visualization, power management, reports and detailed technical device information.
