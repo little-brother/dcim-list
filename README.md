@@ -3,6 +3,7 @@
 ## Active players
 - [Aegis DCIM](#aegis) by Conteg
 - [AixBOMS DCIM](#aixboms) by Aixpertsoft
+- [BASELAYER OS] (#baselayer) by Baselayer Technology LLC
 - [CENTEROS DCIM](#centeros) by CENTEROS
 - [Cormant-CS](#cormant) by Cormant
 - [Datacenter Clarity LC DCIM](#clarity) by Siemens
@@ -59,6 +60,11 @@
 
 :arrow_forward: [AixBOMS IX Editor Highlights Update](https://youtu.be/NV57rMfPqQI)<br />
 :arrow_forward: [New in AixBOMS IX Service Pack 8](https://youtu.be/S8FnEc38QPU)
+
+## <a name = "baselayer"></a>  [BASELAYER OS](https://www.baselayer.com/products/infrastructure-intelligence/) by Baselayer Technology LLC
+> Leverage auto-discovery and BASELAYER’s TRANSLATOR to connect and collect data from physical sensors. Capable of communicating to both IT and infrastructure, BASELAYER OS supports over 150 protocols, including BACNet, Modbus and SNMP.
+
+:link: [Official youtube channel] (https://www.youtube.com/channel/UCYsRqe9tMQMSk1MJQG6irBA)
 
 ## <a name = "centeros"></a>  [CENTEROS DCIM](http://www.centeros.com/product-overview.aspx) by CENTEROS
 > Capacity Management, Asset Management, Real Time Monitoring, Change Management, Impact Assessment and Analysis, Customer & Contact Management
