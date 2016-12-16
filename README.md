@@ -33,7 +33,8 @@
 - [RAMP DCIM](#ramp) by No Limits Software
 - [Sunbird DCIM](#sunbird) by Sunbird
 - [StruxureWare](#struxure) by Schneider Electric
-- [Trellis Platform](#trellis) by Emerson Network Power 
+- [Trellis Platform](#trellis) by Emerson Network Power
+- [WeKeeper] (#wekeeper) by ZNV
 
 ## Abandoned
 - [Bjumper DCiM](#bjumper) by Bjumper Solutions 
@@ -281,6 +282,10 @@
 :orange_book: [Trellis Inventory Manager Data Sheet](http://www.emersonnetworkpower.com/documents/en-US/trellis/Documents/Data%20Sheets/b4a831b540ac4d7aa5d9cd86c11d207e.pdf)<br />
 :orange_book: [Trellis Power System Manager Data Sheet](http://www.emersonnetworkpower.com/documentation/en-US/trellis/Documents/Data%20Sheets/TRELLIS_PS-DS.pdf)
 
+## <a name = "wekeeper"></a> [WeKeeper](http://www.znv.com.cn/product/detail.aspx?id=100000584328846&nodecode=101002032) by ZNV
+> WeKeeper 2.0 is a solution that brings forth concept innovation in data centers. It integrates power safety management, room environment management, intelligent subsystem management and operation and maintenance management.
+
+:link: [Announcement](http://www.znv.com/About/NewsDetais.aspx?id=100000437838727&nodecode=101006002001)
 
 # Abandoned
 
