@@ -11,6 +11,7 @@
 - [Delta InfraSuite](#delta) by Delta Power Solutions
 - [Device42](#device42) by Device42
 - [eMagic DCIM](#emagic) by esds :ng:
+- [EasyDCIM](#easydcim) by ModulesGarden
 - [Foster Environmental DCIM](#foster) by Foster Environmental :ng:
 - [FNT Command](#command) by FNT Software
 - [Geist DCIM](#geist) by Geist
@@ -103,6 +104,11 @@
 > A web based system that is widely used for IT asset management, device deployment, and comprehensive server monitoring and network management in datacenters spread across different geo-locations
 
 :link: [Resources by request](https://www.esds.co.in/emagic.php#horizontalTab5)
+
+## <a name = "easydcim"></a> [EasyDCIM](https://www.easydcim.com) by ModulesGarden
+> Features: Physical Parts Management, Physical Devices Management, Traffic Aggregation, Devices And Servers Monitoring, Servers DNS And rDNS Management, Switches And PDU Management, IP Address Management For Devices Mounted In Rack Cabinets, Remote Servers Control With IPMI Integration, Server Usage Collecting For Billing Purposes, Usage/Resource Graphing, Visual Representation Of Devices Mounted In Rack Cabinets, Password Management.
+
+:link: [Tour](https://www.easydcim.com/features)
 
 ## [Foster Environmental DCIM](http://www.fosterac.co.uk/installation/data-centres/) by Foster Environmental
 > We use DCIM technology to give you a virtual view of what’s happening inside your data centre, giving you greater visibility of what’s happening than if you were there in person. We use the system on your behalf too, watching and monitoring for even the slightest potential issue and correcting it before it becomes a problem
