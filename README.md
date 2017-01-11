@@ -7,6 +7,7 @@
 - [CENTEROS DCIM](#centeros) by CENTEROS
 - [Cormant-CS](#cormant) by Cormant
 - [Datacenter Clarity LC DCIM](#clarity) by Siemens
+- [DCIM Toolkit](#toolkit) by Vigilent :ng:
 - [Decathlon for Data Centers](#decathlon) by ABB
 - [Delta InfraSuite](#delta) by Delta Power Solutions
 - [Device42](#device42) by Device42
@@ -43,6 +44,11 @@
 - [Concurrent Thinking DCIM](#concurrent) by Concurrent Thinking Ltd
 - [FieldView DCIM](#fieldview) by FieldView Solutions 
 - [Noclayer DCIM](#noclayer) by Noclayer
+
+## Etc 
+- [i-doit] (#idoit) by i-doit
+- [Rackmonkey](#rackmonkey) by Flux
+- [RackTables](#racktables) by RackTables
 
 ## Additional information
 :link: [Top Data Center Management Software Products by capterra.com](http://www.capterra.com/data-center-management-software/)<br />
@@ -82,6 +88,9 @@
 
 :arrow_forward: [Official demo](https://youtu.be/6IvzMlW2HjQ)<br />
 :orange_book: [Datacenter Clarity LC for colocation owners and tenants](https://www.downloads.siemens.com/download-center/Download.aspx?pos=download&fct=getasset&id1=A6V10576517)
+
+## <a name = "toolkit"></a> [DCIM Toolkit](http://www.vigilent.com/products-and-services/vigilent-dynamic-cooling-management-system/) by Vigilent 
+> A comprehensive approach to dynamic cooling. Protecting uptime and tenant comfort while reducing energy costs.
 
 ## <a name = "decathlon"></a> [Decathlon for Data Centers](http://new.abb.com/cpm/decathlon-software/decathlon-datacenters) by ABB
 > Decathlon for Data Centers is ABB’s industrial DCIM system for on-premise and hybrid cloud environments. At a base level, it is an integration and automation platform to enable transparency and interoperability for continuous optimization and high availability.
@@ -203,7 +212,7 @@
 > openDCIM is a free, web based DCIM. openDCIM does not contend to be a function by function replacement for commercial applications. Instead, openDCIM covers the majority of features needed by the developers - as is often the case of open source software.
 
 :link: [Official youtube channel](https://www.youtube.com/channel/UCdDKR8jKgL_3C9YbH-cwb8Q/videos)<br />
-:link: [web-demo](http://opendcim.org/demo/login_ldap.php) use dcim/dcim to login
+:link: [Online demo](http://opendcim.org/demo/login_ldap.php) use dcim/dcim to login
 
 ## <a name = "perfit"></a> [Perf-IT DCIM](http://perf-it.com/dcim-products/standard-dcim/) by Perf-IT
 > - Asset management 
@@ -314,3 +323,19 @@
 > Noclayer is a software designed to manage devices and equipment in a data center. The main goal is to provide information about each device in the rack. Therefore, we concentrated on the concept of developing and upgrading capabilities that each device has. An intuitive web interface provides a visual view of the cabinets, as well as drag & drop layout devices
 
 :arrow_forward: [Official demo](https://youtu.be/81atm0pX-kY)
+
+# Etc
+## <a name = "idoit"></a> [i-doit](https://www.i-doit.org/) by i-doit
+> Open Source CMDB and IT Documentation.
+
+:link: [Online demo] (https://www.i-doit.org/demo-2/)
+
+## <a name = "rackmonkey"></a> [Rackmonkey](http://flux.org.uk/projects/rackmonkey/) by Flux
+> Rackmonkey is a web-based tool for managing racks of equipment such as web servers, video encoders, routers and storage devices. Using a simple interface you can keep track of what's where, which OS it runs, when it was purchased, who it belongs and what it's used for. No more searching for spreadsheets or scribbled notes when you need to find a server: Rackmonkey can quickly find any device and draw a rack diagram of its location. Rackmonkey is free and open source (licensed under the GPL). 
+
+:link: [Screenshots] (http://flux.org.uk/projects/rackmonkey/features/)
+
+## <a name = "racktables"></a> [RackTables](http://racktables.org/) by RackTables
+> Racktables is a nifty and robust solution for datacenter and server room asset management. It helps document hardware assets, network addresses, space in racks, networks configuration and much much more!
+
+:link: [Online demo] (http://racktables.org/demo.php)
