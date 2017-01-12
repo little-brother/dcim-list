@@ -49,6 +49,7 @@
 - [i-doit] (#idoit) by i-doit
 - [Rackmonkey](#rackmonkey) by Flux
 - [RackTables](#racktables) by RackTables
+- [Ralph](#ralph) by Allegro Tech
 
 ## Additional information
 :link: [Top Data Center Management Software Products by capterra.com](http://www.capterra.com/data-center-management-software/)<br />
@@ -339,3 +340,13 @@
 > Racktables is a nifty and robust solution for datacenter and server room asset management. It helps document hardware assets, network addresses, space in racks, networks configuration and much much more!
 
 :link: [Online demo] (http://racktables.org/demo.php)
+
+## <a name = "ralph"></a> [Ralph](http://ralph.allegro.tech/) by Allegro Tech
+> Open source, lightweight Assets Management System for Data Center and Back Office
+> - keep track of assets purchases and their life cycle
+> - flexible flow system for assets life cycle
+> - data center and back office support
+> - dc visualization built-in
+
+
+:link: [Online demo] (http://ralph-demo.allegro.tech/login/?next=/) (use ralph/ralph to log in)
