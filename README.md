@@ -47,6 +47,7 @@
 
 ## Etc 
 - [i-doit] (#idoit) by i-doit
+- [NetBox] (#netbox) by DigitalOcean
 - [Rackmonkey](#rackmonkey) by Flux
 - [RackTables](#racktables) by RackTables
 - [Ralph](#ralph) by Allegro Tech
@@ -330,6 +331,17 @@
 > Open Source CMDB and IT Documentation.
 
 :link: [Online demo] (https://www.i-doit.org/demo-2/)
+
+## <a name = "netbox"></a> [NetBox](https://github.com/digitalocean/netbox) by DigitalOcean
+> NetBox is an open source web application designed to help manage and document computer networks. Initially conceived by the network engineering team at DigitalOcean, NetBox was developed specifically to address the needs of network and infrastructure engineers. It encompasses the following aspects of network management:
+> * IP address management (IPAM) - IP networks and addresses, VRFs, and VLANs
+> * Equipment racks - Organized by group and site
+> * Devices - Types of devices and where they are installed
+> * Connections - Network, console, and power connections among devices
+> * Data circuits - Long-haul communications circuits and providers
+> * Secrets - Encrypted storage of sensitive credentials
+
+:book: [Official docs] (http://netbox.readthedocs.io)
 
 ## <a name = "rackmonkey"></a> [Rackmonkey](http://flux.org.uk/projects/rackmonkey/) by Flux
 > Rackmonkey is a web-based tool for managing racks of equipment such as web servers, video encoders, routers and storage devices. Using a simple interface you can keep track of what's where, which OS it runs, when it was purchased, who it belongs and what it's used for. No more searching for spreadsheets or scribbled notes when you need to find a server: Rackmonkey can quickly find any device and draw a rack diagram of its location. Rackmonkey is free and open source (licensed under the GPL). 
