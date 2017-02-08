@@ -13,6 +13,7 @@
 - [Device42](#device42) by Device42
 - [eMagic DCIM](#emagic) by esds :ng:
 - [EasyDCIM](#easydcim) by ModulesGarden
+- [EM/8](#em8) by Tier44
 - [Foster Environmental DCIM](#foster) by Foster Environmental :ng:
 - [FNT Command](#command) by FNT Software
 - [Geist DCIM](#geist) by Geist
@@ -120,6 +121,9 @@
 > Features: Physical Parts Management, Physical Devices Management, Traffic Aggregation, Devices And Servers Monitoring, Servers DNS And rDNS Management, Switches And PDU Management, IP Address Management For Devices Mounted In Rack Cabinets, Remote Servers Control With IPMI Integration, Server Usage Collecting For Billing Purposes, Usage/Resource Graphing, Visual Representation Of Devices Mounted In Rack Cabinets, Password Management.
 
 :link: [Tour](https://www.easydcim.com/features)
+
+## <a name = "em8"></a> [EM/8](https://www.tier44.com/t44/index.php?CID=gen1200) by Tier44
+> EM/8, is a fully featured data center monitoring and management solution, providing real-time access to IT and Facilities metrics, with full historic analysis. Tightly integrated with ServiceNow, EM/8 delivers the ultimate Data Center Infrastructure Management (DCIM) solution.
 
 ## [Foster Environmental DCIM](http://www.fosterac.co.uk/installation/data-centres/) by Foster Environmental
 > We use DCIM technology to give you a virtual view of what’s happening inside your data centre, giving you greater visibility of what’s happening than if you were there in person. We use the system on your behalf too, watching and monitoring for even the slightest potential issue and correcting it before it becomes a problem
@@ -341,7 +345,7 @@
 > * Data circuits - Long-haul communications circuits and providers
 > * Secrets - Encrypted storage of sensitive credentials
 
-:book: [Official docs] (http://netbox.readthedocs.io)
+:orange_book: [Official docs] (http://netbox.readthedocs.io)
 
 ## <a name = "rackmonkey"></a> [Rackmonkey](http://flux.org.uk/projects/rackmonkey/) by Flux
 > Rackmonkey is a web-based tool for managing racks of equipment such as web servers, video encoders, routers and storage devices. Using a simple interface you can keep track of what's where, which OS it runs, when it was purchased, who it belongs and what it's used for. No more searching for spreadsheets or scribbled notes when you need to find a server: Rackmonkey can quickly find any device and draw a rack diagram of its location. Rackmonkey is free and open source (licensed under the GPL). 
