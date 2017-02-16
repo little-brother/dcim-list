@@ -34,6 +34,7 @@
 - [PYXIS DCIM Lite](#pyxis) by Jacarta
 - [Rackwise DCIM](#rackwise) by Rackwise
 - [RAMP DCIM](#ramp) by No Limits Software
+- [RiZone DCIM](#rizone) by Rittal
 - [Sunbird DCIM](#sunbird) by Sunbird
 - [StruxureWare](#struxure) by Schneider Electric
 - [Trellis Platform](#trellis) by Emerson Network Power
@@ -261,6 +262,11 @@
 > Priced at just $1/asset/month, RAMP DCIM is the only DCIM with full auto-discovery, automated change management, software management, and the ability to monitor everything in the data center from virtual machines to IT equipment (servers, network, storage) to facilities equipment (power, cooling, and environmental).
 
 :orange_book: [Overview brochure](https://www.nolimitssoftware.com/wp-content/uploads/2015/04/Ramp-Overview.pdf)
+
+## <a name = "rizone"></a> [RiZone DCIM](https://www.rittal.com/com-en/content/en/support/software/_berwachen/rizone/RiZone.jsp) by Rittal
+> RiZone is the DCIM platform for all components in a data centre infrastructure, from power supply and power distribution, to cooling, through to the security system. Thanks to its simple and fast configuration, RiZone is the ideal DCIM solution for data centres of all sizes.
+
+:orange_book: [Overview brochure](https://www.google.ru/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0ahUKEwi6tMPw75TSAhVKDSwKHXKiC_QQFggwMAE&url=http%3A%2F%2Fwww.rittal.com%2Fimf%2Fnone%2F5_606%2F&usg=AFQjCNHhgHmqfiiPpizXwkLKJ71ajtihFQ&sig2=-7e2_SwL38f1NqXnkZQm4g&cad=rjt)
 
 ## <a name = "sunbird"></a> [Sunbird DCIM](http://www.sunbirddcim.com/products) by Sunbird
 > - Asset management
