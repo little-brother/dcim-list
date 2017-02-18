@@ -49,6 +49,7 @@
 
 ## Etc 
 - [i-doit] (#idoit) by i-doit
+- [DCImanager] (#dcimanager) by ISPsystem
 - [NetBox] (#netbox) by DigitalOcean
 - [Rackmonkey](#rackmonkey) by Flux
 - [RackTables](#racktables) by RackTables
@@ -56,6 +57,7 @@
 
 ## Additional information
 :link: [Top Data Center Management Software Products by capterra.com](http://www.capterra.com/data-center-management-software/)<br />
+:link: [AlternativeTo: some reviews](http://alternativeto.net/software/dcim/)<br />
 :orange_book: [Magic Quadrant for Data Center Infrastructure Management Tools 2015 by Gartner](http://www.aplicazion.es/images/pdfs/Magic_Quadrant_DCIM_2015.pdf)
 
 ---
@@ -341,6 +343,11 @@
 > Open Source CMDB and IT Documentation.
 
 :link: [Online demo] (https://www.i-doit.org/demo-2/)
+
+## <a name = "dcimanager"></a> [DCImanager](https://www.ispsystem.com/software/dcimanager) by ISPsystem
+> DCImanager allows you to manage servers, VLAN, and all the necessary components from a single point of access. Automate server deployment and server provisioning, inventorize active servers and those on stand-by, keep track of electricity consumption and traffic, automatically add new equipment, as well as reboot servers remotely.
+
+:link: [Online demo] (https://www.ispsystem.com/external/demo/demoopen.php?mgr=dcimgr&lang=en)
 
 ## <a name = "netbox"></a> [NetBox](https://github.com/digitalocean/netbox) by DigitalOcean
 > NetBox is an open source web application designed to help manage and document computer networks. Initially conceived by the network engineering team at DigitalOcean, NetBox was developed specifically to address the needs of network and infrastructure engineers. It encompasses the following aspects of network management:
