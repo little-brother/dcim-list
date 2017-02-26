@@ -51,6 +51,7 @@
 - [i-doit] (#idoit) by i-doit
 - [DCImanager] (#dcimanager) by ISPsystem
 - [NetBox] (#netbox) by DigitalOcean
+- [Observium] (#observium) by Observium Limited
 - [Rackmonkey](#rackmonkey) by Flux
 - [RackTables](#racktables) by RackTables
 - [Ralph](#ralph) by Allegro Tech
@@ -359,6 +360,10 @@
 > * Secrets - Encrypted storage of sensitive credentials
 
 :orange_book: [Official docs] (http://netbox.readthedocs.io)
+
+> Observium is a low-maintenance auto-discovering network monitoring platform supporting a wide range of device types, platforms and operating systems including Cisco, Windows, Linux, HP, Juniper, Dell, FreeBSD, Brocade, Netscaler, NetApp and many more. Observium focuses on providing a beautiful and powerful yet simple and intuitive interface to the health and status of your network.
+
+:link: [Online demo] (http://demo.observium.org/)
 
 ## <a name = "rackmonkey"></a> [Rackmonkey](http://flux.org.uk/projects/rackmonkey/) by Flux
 > Rackmonkey is a web-based tool for managing racks of equipment such as web servers, video encoders, routers and storage devices. Using a simple interface you can keep track of what's where, which OS it runs, when it was purchased, who it belongs and what it's used for. No more searching for spreadsheets or scribbled notes when you need to find a server: Rackmonkey can quickly find any device and draw a rack diagram of its location. Rackmonkey is free and open source (licensed under the GPL). 
