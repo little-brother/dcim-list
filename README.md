@@ -18,6 +18,7 @@
 - [FNT Command](#command) by FNT Software
 - [Geist DCIM](#geist) by Geist
 - [GFS Crane](#crane) by Greenfield Software
+- [Global Site Management (GSM)](#gsm) by Norlinx
 - [iCE DCIM](#ice) by iCE :ng:
 - [iTRACS DCIM](#itracks) by CommScope
 - [N3N DCIM](#n3n) by N3N
@@ -162,6 +163,21 @@
 
 :arrow_forward: [Official GFS Crane Demo Video](https://youtu.be/FrDWS8x4JNc)<br />
 :arrow_forward: [GFS Crane DCIM: Demo Video by Shekhar Dasgupta](https://www.youtube.com/watch?v=1-naqVFH47c)
+
+## <a name = "gsm"></a> [Global Site Management (GSM)](http://www.norlinx.com/products) by Norlinx
+> GFS Crane DCIM (Data Center Infrastructure Management) Software highlights:
+> - Power and Environmental Management
+> - Electrical and Network Cable Mapping
+> - Real Time Event and Alert Management
+> - Capacity Management
+> - Asset Management
+> - Work Order Control
+> - Floor and Cabinet Visualization
+> - Reporting 
+
+:orange_book: [Datasheets](http://www.norlinx.com/pdf/GSMenterprise.pdf#page=1&zoom=auto,-218,792)<br />
+:arrow_forward: [Video demo](https://youtu.be/DjzQqDbieQU)
+:link: [Official youtube channel] (https://www.youtube.com/user/NorlinxUSA)
 
 ## <a name = "ice"></a>  [iCE DCIM](http://www.dcim.co/dcim) by iCE
 > Visual Data Center provides a software platform which enables customers to manage assets, model facilites, monitor IT and Facility equipment and manage workflow while scaling to multiple facilities in different geographies with tens of thousands of devices and data points. Users can visualize their data center assets using a desktop client, web interface or mobile platorm. 
