@@ -165,7 +165,7 @@
 :arrow_forward: [GFS Crane DCIM: Demo Video by Shekhar Dasgupta](https://www.youtube.com/watch?v=1-naqVFH47c)
 
 ## <a name = "gsm"></a> [Global Site Management (GSM)](http://www.norlinx.com/products) by Norlinx
-> GFS Crane DCIM (Data Center Infrastructure Management) Software highlights:
+> Unique to other DCIM providers, GSM utilizes Microsoft Visio as our GUI for floor plan management, asset management and capacity planning.
 > - Power and Environmental Management
 > - Electrical and Network Cable Mapping
 > - Real Time Event and Alert Management
@@ -176,11 +176,11 @@
 > - Reporting 
 
 :orange_book: [Datasheets](http://www.norlinx.com/pdf/GSMenterprise.pdf#page=1&zoom=auto,-218,792)<br />
-:arrow_forward: [Video demo](https://youtu.be/DjzQqDbieQU)
+:arrow_forward: [Video demo](https://youtu.be/DjzQqDbieQU)<br />
 :link: [Official youtube channel] (https://www.youtube.com/user/NorlinxUSA)
 
 ## <a name = "ice"></a>  [iCE DCIM](http://www.dcim.co/dcim) by iCE
-> Visual Data Center provides a software platform which enables customers to manage assets, model facilites, monitor IT and Facility equipment and manage workflow while scaling to multiple facilities in different geographies with tens of thousands of devices and data points. Users can visualize their data center assets using a desktop client, web interface or mobile platorm. 
+> Visual Data Center provides a software platform which enables customers to manage assets, model facilites, monitor IT and Facility equipment and manage workflow while scaling to multiple facilities in different geographies with tens of thousands of devices and data points. Users can visualize their data center assets using a desktop client, web interface or mobile platorm. 
 
 ## <a name = "itracs"></a> [iTRACS DCIM](http://www.commscope.com/Solutions/iTRACS-DCIM-Software-Suite/) by CommScope
 > The iTRACS® data center infrastructure management (DCIM) suite gives you an unprecedented view of all your physical ecosystem assets, systems and workflows. Harvest all the data from your IT and facility systems and integrate it into a single powerful pane of glass. See your entire infrastructure holistically in a way that’s easy to understand and manage.
