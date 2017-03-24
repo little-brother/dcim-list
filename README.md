@@ -3,7 +3,7 @@
 ## Active players
 - [Aegis DCIM](#aegis) by Conteg
 - [AixBOMS DCIM](#aixboms) by Aixpertsoft
-- [BASELAYER OS] (#baselayer) by Baselayer Technology LLC
+- [BASELAYER OS](#baselayer) by Baselayer Technology LLC
 - [CENTEROS DCIM](#centeros) by CENTEROS
 - [Cormant-CS](#cormant) by Cormant
 - [Datacenter Clarity LC DCIM](#clarity) by Siemens
@@ -20,8 +20,8 @@
 - [GFS Crane](#crane) by Greenfield Software
 - [Global Site Management (GSM)](#gsm) by Norlinx
 - [iCE DCIM](#ice) by iCE :ng:
-- [iTRACS DCIM](#itracks) by CommScope
-- [N-GEN DCIM] (#ngen) by MPL Technology 
+- [iTRACS DCIM](#itracs) by CommScope
+- [N-GEN DCIM](#ngen) by MPL Technology 
 - [N3N DCIM](#n3n) by N3N
 - [netTerrain DCIM](#netterrain) by Graphical Networks 
 - [NetZoomDC](#netzoomdc) by Altima Technologies
@@ -40,7 +40,7 @@
 - [Sunbird DCIM](#sunbird) by Sunbird
 - [StruxureWare](#struxure) by Schneider Electric
 - [Trellis Platform](#trellis) by Emerson Network Power
-- [WeKeeper] (#wekeeper) by ZNV
+- [WeKeeper](#wekeeper) by ZNV
 
 ## Abandoned
 - [Bjumper DCiM](#bjumper) by Bjumper Solutions 
@@ -50,10 +50,10 @@
 - [Noclayer DCIM](#noclayer) by Noclayer
 
 ## Etc 
-- [i-doit] (#idoit) by i-doit
-- [DCImanager] (#dcimanager) by ISPsystem
-- [NetBox] (#netbox) by DigitalOcean
-- [Observium] (#observium) by Observium Limited
+- [i-doit](#idoit) by i-doit
+- [DCImanager](#dcimanager) by ISPsystem
+- [NetBox](#netbox) by DigitalOcean
+- [Observium](#observium) by Observium Limited
 - [Rackmonkey](#rackmonkey) by Flux
 - [RackTables](#racktables) by RackTables
 - [Ralph](#ralph) by Allegro Tech
@@ -81,7 +81,7 @@
 ## <a name = "baselayer"></a>  [BASELAYER OS](https://www.baselayer.com/products/infrastructure-intelligence/) by Baselayer Technology LLC
 > Leverage auto-discovery and BASELAYER’s TRANSLATOR to connect and collect data from physical sensors. Capable of communicating to both IT and infrastructure, BASELAYER OS supports over 150 protocols, including BACNet, Modbus and SNMP.
 
-:link: [Official youtube channel] (https://www.youtube.com/channel/UCYsRqe9tMQMSk1MJQG6irBA)
+:link: [Official youtube channel](https://www.youtube.com/channel/UCYsRqe9tMQMSk1MJQG6irBA)
 
 ## <a name = "centeros"></a>  [CENTEROS DCIM](http://www.centeros.com/product-overview.aspx) by CENTEROS
 > Capacity Management, Asset Management, Real Time Monitoring, Change Management, Impact Assessment and Analysis, Customer & Contact Management
@@ -131,7 +131,7 @@
 ## <a name = "em8"></a> [EM/8](https://www.tier44.com/t44/index.php?CID=gen1200) by Tier44
 > EM/8, is a fully featured data center monitoring and management solution, providing real-time access to IT and Facilities metrics, with full historic analysis. Tightly integrated with ServiceNow, EM/8 delivers the ultimate Data Center Infrastructure Management (DCIM) solution.
 
-## [Foster Environmental DCIM](http://www.fosterac.co.uk/installation/data-centres/) by Foster Environmental
+## <a name = "foster"></a> [Foster Environmental DCIM](http://www.fosterac.co.uk/installation/data-centres/) by Foster Environmental
 > We use DCIM technology to give you a virtual view of what’s happening inside your data centre, giving you greater visibility of what’s happening than if you were there in person. We use the system on your behalf too, watching and monitoring for even the slightest potential issue and correcting it before it becomes a problem
 
 :arrow_forward: [Official demo](https://youtu.be/dp80OL3B6LQ)
@@ -178,7 +178,7 @@
 
 :orange_book: [Datasheets](http://www.norlinx.com/pdf/GSMenterprise.pdf#page=1&zoom=auto,-218,792)<br />
 :arrow_forward: [Video demo](https://youtu.be/DjzQqDbieQU)<br />
-:link: [Official youtube channel] (https://www.youtube.com/user/NorlinxUSA)
+:link: [Official youtube channel](https://www.youtube.com/user/NorlinxUSA)
 
 ## <a name = "ice"></a>  [iCE DCIM](http://www.dcim.co/dcim) by iCE
 > Visual Data Center provides a software platform which enables customers to manage assets, model facilites, monitor IT and Facility equipment and manage workflow while scaling to multiple facilities in different geographies with tens of thousands of devices and data points. Users can visualize their data center assets using a desktop client, web interface or mobile platorm. 
@@ -366,12 +366,12 @@
 ## <a name = "idoit"></a> [i-doit](https://www.i-doit.org/) by i-doit
 > Open Source CMDB and IT Documentation.
 
-:link: [Online demo] (https://www.i-doit.org/demo-2/)
+:link: [Online demo](https://www.i-doit.org/demo-2/)
 
 ## <a name = "dcimanager"></a> [DCImanager](https://www.ispsystem.com/software/dcimanager) by ISPsystem
 > DCImanager allows you to manage servers, VLAN, and all the necessary components from a single point of access. Automate server deployment and server provisioning, inventorize active servers and those on stand-by, keep track of electricity consumption and traffic, automatically add new equipment, as well as reboot servers remotely.
 
-:link: [Online demo] (https://www.ispsystem.com/external/demo/demoopen.php?mgr=dcimgr&lang=en)
+:link: [Online demo](https://www.ispsystem.com/external/demo/demoopen.php?mgr=dcimgr&lang=en)
 
 ## <a name = "netbox"></a> [NetBox](https://github.com/digitalocean/netbox) by DigitalOcean
 > NetBox is an open source web application designed to help manage and document computer networks. Initially conceived by the network engineering team at DigitalOcean, NetBox was developed specifically to address the needs of network and infrastructure engineers. It encompasses the following aspects of network management:
@@ -382,22 +382,22 @@
 > * Data circuits - Long-haul communications circuits and providers
 > * Secrets - Encrypted storage of sensitive credentials
 
-:orange_book: [Official docs] (http://netbox.readthedocs.io)
+:orange_book: [Official docs](http://netbox.readthedocs.io)
 
 ## <a name = "observium"></a> [Observium](http://observium.org/) by Observium Limited
 > Observium is a low-maintenance auto-discovering network monitoring platform supporting a wide range of device types, platforms and operating systems including Cisco, Windows, Linux, HP, Juniper, Dell, FreeBSD, Brocade, Netscaler, NetApp and many more. Observium focuses on providing a beautiful and powerful yet simple and intuitive interface to the health and status of your network.
 
-:link: [Online demo] (http://demo.observium.org/)
+:link: [Online demo](http://demo.observium.org/)
 
 ## <a name = "rackmonkey"></a> [Rackmonkey](http://flux.org.uk/projects/rackmonkey/) by Flux
 > Rackmonkey is a web-based tool for managing racks of equipment such as web servers, video encoders, routers and storage devices. Using a simple interface you can keep track of what's where, which OS it runs, when it was purchased, who it belongs and what it's used for. No more searching for spreadsheets or scribbled notes when you need to find a server: Rackmonkey can quickly find any device and draw a rack diagram of its location. Rackmonkey is free and open source (licensed under the GPL). 
 
-:link: [Screenshots] (http://flux.org.uk/projects/rackmonkey/features/)
+:link: [Screenshots](http://flux.org.uk/projects/rackmonkey/features/)
 
 ## <a name = "racktables"></a> [RackTables](http://racktables.org/) by RackTables
 > Racktables is a nifty and robust solution for datacenter and server room asset management. It helps document hardware assets, network addresses, space in racks, networks configuration and much much more!
 
-:link: [Online demo] (http://racktables.org/demo.php)
+:link: [Online demo](http://racktables.org/demo.php)
 
 ## <a name = "ralph"></a> [Ralph](http://ralph.allegro.tech/) by Allegro Tech
 > Open source, lightweight Assets Management System for Data Center and Back Office
@@ -407,4 +407,4 @@
 > - dc visualization built-in
 
 
-:link: [Online demo] (http://ralph-demo.allegro.tech/login/?next=/) (use ralph/ralph to log in)
+:link: [Online demo](http://ralph-demo.allegro.tech/login/?next=/) (use ralph/ralph to log in)
