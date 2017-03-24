@@ -21,6 +21,7 @@
 - [Global Site Management (GSM)](#gsm) by Norlinx
 - [iCE DCIM](#ice) by iCE :ng:
 - [iTRACS DCIM](#itracks) by CommScope
+- [N-GEN DCIM] (#ngen) by MPL Technology 
 - [N3N DCIM](#n3n) by N3N
 - [netTerrain DCIM](#netterrain) by Graphical Networks 
 - [NetZoomDC](#netzoomdc) by Altima Technologies
@@ -189,6 +190,12 @@
 :arrow_forward: [iTRACS Asset Tracking and Management](https://youtu.be/-eWX7HIMnVg)<br />
 :arrow_forward: [iTRACS紹介ビデオ by 株式会社アステック](https://youtu.be/QhhTz05pQUw)<br />
 :arrow_forward: [iTRACS. What DCIM is meant to be. 2011](https://youtu.be/1a4jnbk7Fb4)
+
+## <a name = "ngen"></a> [N-GEN DCIM](http://mpltechnologygroup.com/en/solutions/n-gen/) by MPL Technology
+> N-GEN by MPL is a culmination of 10 years Data Centre operational, consultancy and engineering experience spanning a number of global bluechip organisations.
+> N-GEN provides a detailed yet intuitive interface, rich visualisations and easy access to data in real-time. It is the next generation of DCIM.
+
+:arrow_forward: [Official youtube channel](https://www.youtube.com/channel/UCeB9idPEKCu10GHr2RdjvLw/videos)
 
 ## <a name = "n3n"></a> [N3N DCIM](http://www.n3n.io/datacenter-infrastructure-management-dcim/) by N3N
 > Nothing
