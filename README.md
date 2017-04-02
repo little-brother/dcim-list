@@ -4,6 +4,7 @@
 - [Aegis DCIM](#aegis) by Conteg
 - [AixBOMS DCIM](#aixboms) by Aixpertsoft
 - [BASELAYER OS](#baselayer) by Baselayer Technology LLC
+- [BJumper DCiM](#bjumper) by BJumper Solutions 
 - [CENTEROS DCIM](#centeros) by CENTEROS
 - [Cormant-CS](#cormant) by Cormant
 - [Datacenter Clarity LC DCIM](#clarity) by Siemens
@@ -39,11 +40,10 @@
 - [RiZone DCIM](#rizone) by Rittal
 - [Sunbird DCIM](#sunbird) by Sunbird
 - [StruxureWare](#struxure) by Schneider Electric
-- [Trellis Platform](#trellis) by Emerson Network Power
+- [Trellis Platform](#trellis) by Vertiv
 - [WeKeeper](#wekeeper) by ZNV
 
 ## Abandoned
-- [Bjumper DCiM](#bjumper) by Bjumper Solutions 
 - [CA DCIM](#ca) by CA
 - [Concurrent Thinking DCIM](#concurrent) by Concurrent Thinking Ltd
 - [FieldView DCIM](#fieldview) by FieldView Solutions 
@@ -82,6 +82,12 @@
 > Leverage auto-discovery and BASELAYER’s TRANSLATOR to connect and collect data from physical sensors. Capable of communicating to both IT and infrastructure, BASELAYER OS supports over 150 protocols, including BACNet, Modbus and SNMP.
 
 :link: [Official youtube channel](https://www.youtube.com/channel/UCYsRqe9tMQMSk1MJQG6irBA)
+
+## <a name = "bjumper"></a> [BJumper DCiM](http://bjumper.com/nuestro-dcim/?lang=en) by BJumper Solutions 
+> Based on iTRACs CPIM
+
+:arrow_forward: [Videos](http://bjumper.com/nuestro-dcim/itracs-cpim/?lang=en)
+:arrow_forward: [Official demo](https://youtu.be/4nvvCx_fXw4)
 
 ## <a name = "centeros"></a>  [CENTEROS DCIM](http://www.centeros.com/product-overview.aspx) by CENTEROS
 > Capacity Management, Asset Management, Real Time Monitoring, Change Management, Impact Assessment and Analysis, Customer & Contact Management
@@ -321,16 +327,11 @@
 :arrow_forward: [Setting Up New AS-P with a Bacnet Interface by Jason Crites](https://youtu.be/_3grP_shYpk)<br />
 :link: [Data Center Expert web-demo](http://isxc.apc.com/desktop/) use apc/apc to login
 
-## <a name = "trellis"></a> [Trellis Platform](http://www.emersonnetworkpower.com/en-US/Brands/Trellis/Pages/default.aspx) by Emerson Network Power
-> By providing real-time, integrated view of IT and facility assets, this comprehensive DCIM solution makes it easier to collaborate, plan and control changes in the data center. A modular and scalable platform that fits every sized company, it helps mitigate IT risk, optimize efficiency and support business initiatives
-> - Inventory Manager
-> - Site Manager
-> - Power System Manager
-> - Thermal System Manager
-> - Mobile Suite
-> - Platform Express Edition
+## <a name = "trellis"></a> [Trellis Platform](https://www.vertivco.com/en-us/products-catalog/monitoring-control-and-management/software/trellis-enterprise-solutions/) by Vertiv (formerly Emerson Network Power)
+> By providing real-time, integrated view of IT and facility assets, the Trellis DCIM solution makes it easier to collaborate, plan and control changes in the data center. A modular and scalable platform that fits every sized company, it helps mitigate IT risk, optimize efficiency and support business initiatives.
 
 :arrow_forward: [Trellis Platform by Precision Environmental and Power](https://youtu.be/JgJ74FwE9hQ)<br />
+:orange_book: [Brochure](https://www.vertivco.com/globalassets/products/monitoring-control-and-management/software/the-trellis-platform-for-data-center-infrastructure-management-dcim.pdf)
 :orange_book: [The New World of IT Infrastructure Solutions Brochure](http://www.emersonnetworkpower.com/documentation/en-US/Resources/Market/Data-Center/Library/Documents/brochures/IT-Products-Brochure_EN_NA_SL-11447.pdf)<br />
 :orange_book: [Trellis Inventory Manager Data Sheet](http://www.emersonnetworkpower.com/documents/en-US/trellis/Documents/Data%20Sheets/b4a831b540ac4d7aa5d9cd86c11d207e.pdf)<br />
 :orange_book: [Trellis Power System Manager Data Sheet](http://www.emersonnetworkpower.com/documentation/en-US/trellis/Documents/Data%20Sheets/TRELLIS_PS-DS.pdf)
@@ -341,9 +342,6 @@
 :link: [Announcement](http://www.znv.com/About/NewsDetais.aspx?id=100000437838727&nodecode=101006002001)
 
 # Abandoned
-
-## <a name = "bjumper"></a> Bjumper DCiM by Bjumper Solutions 
-:arrow_forward: [Official demo](https://youtu.be/4nvvCx_fXw4)
 
 ## <a name = "ca"></a> CA DCIM by CA
 > [Facebook’s DCIM Vendor CA Quits DCIM Software Market](http://www.datacenterknowledge.com/archives/2015/11/16/facebooks-dcim-vendor-ca-quits-dcim-software-market/)
