@@ -52,6 +52,7 @@
 
 ## Etc 
 - [i-doit](#idoit) by i-doit
+- [Intel DCM](#intel) by Intel
 - [DCImanager](#dcimanager) by ISPsystem
 - [NetBox](#netbox) by DigitalOcean
 - [Observium](#observium) by Observium Limited
@@ -373,6 +374,9 @@
 > Open Source CMDB and IT Documentation.
 
 :link: [Online demo](https://www.i-doit.org/demo-2/)
+
+## <a name = "intel"></a> [Intel DCM](http://www.intel.com/content/www/us/en/software/intel-dcm-product-detail.html) by Intel
+> Intel Data Center Manager provides power and thermal monitoring and management for servers, racks, and groups of servers in datacenters. Management console vendors (ISVs) and system integrators (SIs) can integrate Intel Data Center Manager into their console or command-line applications and provide high-value power management features to IT organizations.
 
 ## <a name = "dcimanager"></a> [DCImanager](https://www.ispsystem.com/software/dcimanager) by ISPsystem
 > DCImanager allows you to manage servers, VLAN, and all the necessary components from a single point of access. Automate server deployment and server provisioning, inventorize active servers and those on stand-by, keep track of electricity consumption and traffic, automatically add new equipment, as well as reboot servers remotely.
