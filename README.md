@@ -5,6 +5,7 @@
 - [AixBOMS DCIM](#aixboms) by Aixpertsoft
 - [BASELAYER OS](#baselayer) by Baselayer Technology LLC
 - [BJumper DCiM](#bjumper) by BJumper Solutions 
+- [CenterMind](#centermind) by RiT Technologies
 - [CENTEROS DCIM](#centeros) by CENTEROS
 - [Cormant-CS](#cormant) by Cormant
 - [Datacenter Clarity LC DCIM](#clarity) by Siemens
@@ -86,8 +87,15 @@
 ## <a name = "bjumper"></a> [BJumper DCiM](http://bjumper.com/nuestro-dcim/?lang=en) by BJumper Solutions 
 > Based on iTRACs CPIM
 
-:arrow_forward: [Videos](http://bjumper.com/nuestro-dcim/itracs-cpim/?lang=en)
+:arrow_forward: [Videos](http://bjumper.com/nuestro-dcim/itracs-cpim/?lang=en)<br />
 :arrow_forward: [Official demo](https://youtu.be/4nvvCx_fXw4)
+
+## <a name = "centermind"></a> [CenterMind](http://www.rittech.com/Products_CenterMind) by RiT Technologies
+> CenterMind™ is an advanced Data Center Solution that provides a comprehensive real-time view of the entire data center infrastructure, no matter how large or distributed.<br />
+> CenterMind automatically maintains a full up to date inventory of all data center assets; enables ongoing monitoring and alerting to changes in device status and to environment and power conditions; streamlines maintenance work and conducting effective provisioning and asset management. 
+
+:arrow_forward: [Youtube channel](https://www.youtube.com/channel/UCC2uj_dUfmJQvkQXKiB7dnQ)<br />
+:orange_book: [Brochure](http://www.rittech.com/_Uploads/dbsAttachedFiles/CenterMind_2015.pdf)
 
 ## <a name = "centeros"></a>  [CENTEROS DCIM](http://www.centeros.com/product-overview.aspx) by CENTEROS
 > Capacity Management, Asset Management, Real Time Monitoring, Change Management, Impact Assessment and Analysis, Customer & Contact Management
