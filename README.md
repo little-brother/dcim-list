@@ -22,6 +22,7 @@
 - [GFS Crane](#crane) by Greenfield Software
 - [Global Site Management (GSM)](#gsm) by Norlinx
 - [iCE DCIM](#ice) by iCE :ng:
+- [InSite](#insite) by AdInfa
 - [iTRACS DCIM](#itracs) by CommScope
 - [N-GEN DCIM](#ngen) by MPL Technology 
 - [N3N DCIM](#n3n) by N3N
@@ -197,6 +198,16 @@
 
 ## <a name = "ice"></a>  [iCE DCIM](http://www.dcim.co/dcim) by iCE
 > Visual Data Center provides a software platform which enables customers to manage assets, model facilites, monitor IT and Facility equipment and manage workflow while scaling to multiple facilities in different geographies with tens of thousands of devices and data points. Users can visualize their data center assets using a desktop client, web interface or mobile platorm. 
+
+## <a name = "insite"></a> [InSite](http://www.adinfa.com/v5/insite/) by AdInfa
+> - Vendor Independent
+> - Customer Service
+> - Latest Web Technologies
+> - Beautiful Interface
+> - Dashboards
+> - Works with your stuff
+> - Ease of Use
+> - Realtime Information
 
 ## <a name = "itracs"></a> [iTRACS DCIM](http://www.commscope.com/Solutions/iTRACS-DCIM-Software-Suite/) by CommScope
 > The iTRACS® data center infrastructure management (DCIM) suite gives you an unprecedented view of all your physical ecosystem assets, systems and workflows. Harvest all the data from your IT and facility systems and integrate it into a single powerful pane of glass. See your entire infrastructure holistically in a way that’s easy to understand and manage.
