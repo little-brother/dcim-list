@@ -43,6 +43,7 @@
 - [Sunbird DCIM](#sunbird) by Sunbird
 - [StruxureWare](#struxure) by Schneider Electric
 - [Trellis Platform](#trellis) by Vertiv
+- [Visual Data Center](#vdc) by Optimum Path
 - [WeKeeper](#wekeeper) by ZNV
 
 ## Abandoned
@@ -355,6 +356,12 @@
 :orange_book: [The New World of IT Infrastructure Solutions Brochure](http://www.emersonnetworkpower.com/documentation/en-US/Resources/Market/Data-Center/Library/Documents/brochures/IT-Products-Brochure_EN_NA_SL-11447.pdf)<br />
 :orange_book: [Trellis Inventory Manager Data Sheet](http://www.emersonnetworkpower.com/documents/en-US/trellis/Documents/Data%20Sheets/b4a831b540ac4d7aa5d9cd86c11d207e.pdf)<br />
 :orange_book: [Trellis Power System Manager Data Sheet](http://www.emersonnetworkpower.com/documentation/en-US/trellis/Documents/Data%20Sheets/TRELLIS_PS-DS.pdf)
+
+## <a name = "vdc"></a> [Visual Data Center](http://www.optimumpathinc.com/Products-VDC.html) by Optimum Path 
+> Visual Data Center combines data monitoring and management for facility, IT and security assets to provide a holistic view of the facility and a centralized software solution to manage these groups of assets. With key information collected from each device type and a repository of nearly 20,000 assets in the model library, users can easily track usage, utilization, capacity limits and more for their power, space and cooling concerns. 
+
+:arrow_forward: [Official youtube-channel](https://www.youtube.com/user/OptimumPathInc/videos)<br />
+:orange_book: [Brochure](http://www.optimumpathinc.com/Download/VDC%202015.pdf)
 
 ## <a name = "wekeeper"></a> [WeKeeper](http://www.znv.com.cn/product/detail.aspx?id=100000584328846&nodecode=101002032) by ZNV
 > WeKeeper 2.0 is a solution that brings forth concept innovation in data centers. It integrates power safety management, room environment management, intelligent subsystem management and operation and maintenance management.
