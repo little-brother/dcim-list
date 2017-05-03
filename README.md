@@ -40,6 +40,7 @@
 - [Rackwise DCIM](#rackwise) by Rackwise
 - [RAMP DCIM](#ramp) by No Limits Software
 - [RiZone DCIM](#rizone) by Rittal
+- [SmartZone](#smartzone) by Panduit
 - [Sunbird DCIM](#sunbird) by Sunbird
 - [StruxureWare](#struxure) by Schneider Electric
 - [Trellis Platform](#trellis) by Vertiv
@@ -320,6 +321,9 @@
 > RiZone is the DCIM platform for all components in a data centre infrastructure, from power supply and power distribution, to cooling, through to the security system. Thanks to its simple and fast configuration, RiZone is the ideal DCIM solution for data centres of all sizes.
 
 :orange_book: [Overview brochure](https://www.google.ru/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0ahUKEwi6tMPw75TSAhVKDSwKHXKiC_QQFggwMAE&url=http%3A%2F%2Fwww.rittal.com%2Fimf%2Fnone%2F5_606%2F&usg=AFQjCNHhgHmqfiiPpizXwkLKJ71ajtihFQ&sig2=-7e2_SwL38f1NqXnkZQm4g&cad=rjt)
+
+## <a name = "smartzone"></a> [SmartZone](http://www.panduit.com/en/dcim) by Panduit
+> SmartZone are designed to help you manage risk and change within the physical infrastructure by providing real-time data on the status of power, cooling, connectivity, security, and environmentals from the enterprise to individual devices in data center cabinets.
 
 ## <a name = "sunbird"></a> [Sunbird DCIM](http://www.sunbirddcim.com/products) by Sunbird
 > - Asset management
