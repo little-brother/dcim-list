@@ -7,6 +7,7 @@
 - [BJumper DCiM](#bjumper) by BJumper Solutions 
 - [CenterMind](#centermind) by RiT Technologies
 - [CENTEROS DCIM](#centeros) by CENTEROS
+- [Concertim](#concertim) by Concertim Infrastructure Management Limited
 - [Cormant-CS](#cormant) by Cormant
 - [Datacenter Clarity LC DCIM](#clarity) by Siemens
 - [DCIM Toolkit](#toolkit) by Vigilent :ng:
@@ -105,6 +106,10 @@
 > Capacity Management, Asset Management, Real Time Monitoring, Change Management, Impact Assessment and Analysis, Customer & Contact Management
 
 :arrow_forward: [Overview](http://content.screencast.com/users/CENTEROS/folders/CENTEROS%20Demos/media/bb7cbeb4-0d49-4b76-866e-1a6c025302aa/CENTEROS-Movie-2015.mp4)
+
+## <a name = "concertim"></a> [Concertim](http://www.concertim.com/uk/products/concertim-suite) by Concertim Infrastructure Management Limited
+> The modules available for you to choose from are: Asset Control, Power Control, Environmental Control, Facilities Control, IT Control, VM Control.
+> The Concertim having initially been brought to market by [Concurrent Thinking Ltd](#concurrent).
 
 ## <a name = "cormant"></a> [Cormant-CS](http://cormant.com/solutions/dcim/) by Cormant
 > Cormant-CS is a complete DCIM solution that delivers unmatched functionality, intuitive ease of use, and rapid return on investment.
