@@ -10,6 +10,7 @@
 - [Concertim](#concertim) by Concertim Infrastructure Management Limited
 - [Cormant-CS](#cormant) by Cormant
 - [Datacenter Clarity LC DCIM](#clarity) by Siemens
+- [DCeye](#dceye) by Athenta
 - [DCIM Toolkit](#toolkit) by Vigilent :ng:
 - [Decathlon for Data Centers](#decathlon) by ABB
 - [Delta InfraSuite](#delta) by Delta Power Solutions
@@ -120,6 +121,11 @@
 
 :arrow_forward: [Official demo](https://youtu.be/6IvzMlW2HjQ)<br />
 :orange_book: [Datacenter Clarity LC for colocation owners and tenants](https://www.downloads.siemens.com/download-center/Download.aspx?pos=download&fct=getasset&id1=A6V10576517)
+
+## <a name = "dceye"></a> [DCeye](http://www.athenta.com/dcim.html) by Athenta
+> Athenta DCIM is an umbrella management for IT, Facility & Building infrastructure equipments. The DCIM product suite provides integrated infrastructure management across all assets in the datacenter while collaborating in a multi-vendor and multi-protocol environment. The appliance based solution does not add any vulnerability and has inbuilt capabilities to manage itself. 
+
+:orange_book: [Brochure](http://www.athenta.com/images/DCIM_Brochure_v4.5.pdf)
 
 ## <a name = "toolkit"></a> [DCIM Toolkit](http://www.vigilent.com/products-and-services/vigilent-dynamic-cooling-management-system/) by Vigilent 
 > A comprehensive approach to dynamic cooling. Protecting uptime and tenant comfort while reducing energy costs.
