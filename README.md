@@ -41,7 +41,7 @@
 - [PowerDCM](#powerdcm) by AIT Partnership Group Ltd
 - [PYXIS DCIM Lite](#pyxis) by Jacarta
 - [Rackwise DCIM](#rackwise) by Rackwise
-- [RAMP DCIM](#ramp) by No Limits Software
+- [RAMP DCIM](#ramp) by Tuangru
 - [RiZone DCIM](#rizone) by Rittal
 - [SmartZone](#smartzone) by Panduit
 - [Sunbird DCIM](#sunbird) by Sunbird
@@ -327,7 +327,7 @@
 
 :link: [What is Rackwise](http://www.rackwise.com/software/rackwise)
 
-## <a name = "ramp"></a> [RAMP DCIM](https://www.nolimitssoftware.com/) by No Limits Software
+## <a name = "ramp"></a> [RAMP DCIM](https://www.tuangru.com/) by Tuangru
 > Priced at just $1/asset/month, RAMP DCIM is the only DCIM with full auto-discovery, automated change management, software management, and the ability to monitor everything in the data center from virtual machines to IT equipment (servers, network, storage) to facilities equipment (power, cooling, and environmental).
 
 :orange_book: [Overview brochure](https://www.nolimitssoftware.com/wp-content/uploads/2015/04/Ramp-Overview.pdf)
