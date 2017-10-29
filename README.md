@@ -34,6 +34,7 @@
 - [Nlyte DCIM](#nlyte) by Nlyte Software 
 - [Ni2 DCIM](#ni2) by Ni2 :ng:
 - [ONEDC](#onedc) by NextDC
+- [OnWatch DCIM](#onwatch) by CPSI
 - [OpenData](#opendata) by Modius
 - [openDCIM](#opendcim) by openDCIM Foundation
 - [Perf-IT DCIM](#perfit) by Perf-IT
@@ -43,6 +44,7 @@
 - [Rackwise DCIM](#rackwise) by Rackwise
 - [RAMP DCIM](#ramp) by Tuangru
 - [RiZone DCIM](#rizone) by Rittal
+- [RunSmart](#runsmart) by RunSmart
 - [SmartZone](#smartzone) by Panduit
 - [Sunbird DCIM](#sunbird) by Sunbird
 - [StruxureWare](#struxure) by Schneider Electric
@@ -70,6 +72,7 @@
 :link: [Top Data Center Management Software Products by capterra.com](http://www.capterra.com/data-center-management-software/)<br />
 :link: [AlternativeTo: some reviews](http://alternativeto.net/software/dcim/)<br />
 :orange_book: [Magic Quadrant for Data Center Infrastructure Management Tools 2015 by Gartner](http://www.aplicazion.es/images/pdfs/Magic_Quadrant_DCIM_2015.pdf)
+:link: [Network monitoring tools](https://www.slac.stanford.edu/xorg/nmtf/nmtf-tools.html)
 
 ---
 
@@ -142,7 +145,8 @@
 ## <a name = "delta"></a> [Delta InfraSuite](http://www.deltapowersolutions.com/en/mcis/data-center.php) by Delta Power Solutions
 > Real-time access to secure and reliable data is crucial in today’s competitive global business environment. Delta has developed a new generation of tier 3 data center solutions or above that allow companies to achieve this essential goal of high level of data center reliability. Our data center design provides IT managers with the exact tools and capabilities they need in order to effectively organize the various servers within a company.
 
-:arrow_forward: [Promo video](https://youtu.be/hpkLdzvmjWY)
+:arrow_forward: [Promo video](https://youtu.be/hpkLdzvmjWY)<br />
+:link: [InfraSuite Manager](http://www.deltapowersolutions.com/en/mcis/data-center-infrasuite-manager.php)
 
 ## <a name = "device42"></a> [Device42](http://www.device42.com/features/) by Device42
 > Device42 is comprehensive data center management software that integrates server room asset management, IP address management, password management and application impact analysis in a single web console.
@@ -278,6 +282,11 @@
 
 :arrow_forward: [Promo video](https://youtu.be/IovqCxRzE5E)
 
+## <a name = "onwatch"></a> [OnWatch DCIM](https://www.cpsiwa.com/onwatch-dcim/) by CPSI
+> OnWatch predictive analytics platform provides expert insight for your entire critical power environment: everything from utility power, UPS, batteries and generators to server racks.
+
+:orange_book: [Brochure](https://www.cpsiwa.com/wp-content/uploads/2017/10/OnWatch-DCIM-brochure.pdf)
+
 ## <a name = "opendata"></a> [OpenData](http://www.modius.com/) by Modius
 > OpenData is a highly scalable software platform for collecting the unstructured “big data” that comes from all the different makes and models of data center assets, processes, and activities as they are generated in real-time.
 
@@ -336,6 +345,9 @@
 > RiZone is the DCIM platform for all components in a data centre infrastructure, from power supply and power distribution, to cooling, through to the security system. Thanks to its simple and fast configuration, RiZone is the ideal DCIM solution for data centres of all sizes.
 
 :orange_book: [Overview brochure](https://www.google.ru/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0ahUKEwi6tMPw75TSAhVKDSwKHXKiC_QQFggwMAE&url=http%3A%2F%2Fwww.rittal.com%2Fimf%2Fnone%2F5_606%2F&usg=AFQjCNHhgHmqfiiPpizXwkLKJ71ajtihFQ&sig2=-7e2_SwL38f1NqXnkZQm4g&cad=rjt)
+
+## <a name = "runsmart"></a> [RunSmart](http://runsmart.io/solutions/#__use) by RunSmart
+> Features: IT Monitoring, Business Reporting, Automated Control, Customer Management, RS Connect, Module Manager, Enterprise Support, Energy.
 
 ## <a name = "smartzone"></a> [SmartZone](http://www.panduit.com/en/dcim) by Panduit
 > SmartZone are designed to help you manage risk and change within the physical infrastructure by providing real-time data on the status of power, cooling, connectivity, security, and environmentals from the enterprise to individual devices in data center cabinets.
