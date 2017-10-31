@@ -10,7 +10,7 @@
 - [Concertim](#concertim) by Concertim Infrastructure Management Limited
 - [Cormant-CS](#cormant) by Cormant
 - [CyberHub ECO.DC](#cyber) by STULZ
-- [Datacenter Clarity LC DCIM](#clarity) by Siemens
+- [Datacenter Clarity LC DCIM](#clarity) by MayaHTT / Siemens
 - [DCeye](#dceye) by Athenta
 - [DCIM Toolkit](#toolkit) by Vigilent :ng:
 - [Decathlon for Data Centers](#decathlon) by ABB
@@ -71,7 +71,7 @@
 ## Additional information
 :link: [Top Data Center Management Software Products by capterra.com](http://www.capterra.com/data-center-management-software/)<br />
 :link: [AlternativeTo: some reviews](http://alternativeto.net/software/dcim/)<br />
-:orange_book: [Magic Quadrant for Data Center Infrastructure Management Tools 2015 by Gartner](http://www.aplicazion.es/images/pdfs/Magic_Quadrant_DCIM_2015.pdf)
+:orange_book: [Magic Quadrant for Data Center Infrastructure Management Tools 2015 by Gartner](http://www.aplicazion.es/images/pdfs/Magic_Quadrant_DCIM_2015.pdf)<br />
 :link: [Network monitoring tools](https://www.slac.stanford.edu/xorg/nmtf/nmtf-tools.html)
 
 ---
@@ -123,10 +123,11 @@
 ## <a name = "cyber"></a> [CyberHub ECO.DC](https://www.stulz.de/en/cyberhub-ecodc/) by STULZ
 > CyberHub ECO.DC monitors, plans and manages entire air conditioning systems and their connected infrastructure in data centers. With just a single central software solution, the operational reliability and energy efficiency of data centers is increased to the max.
 
-## <a name = "clarity"></a> [Datacenter Clarity LC DCIM](http://w3.siemens.com/topics/global/en/data-centers/pages/data-centers.aspx) by Siemens (Atos) 
+## <a name = "clarity"></a> [Datacenter Clarity LC DCIM](https://datacenter.mayahtt.com/) by MayaHTT / Siemens (Atos)
 > Datacenter Clarity LC™ allows colocation owners to increase the efficiency of their data centers through advanced monitoring, automated billback reporting and SLA management. It offers colocation tenants real-time insight into their assets and their SLA compliance
 
 :arrow_forward: [Official demo](https://youtu.be/6IvzMlW2HjQ)<br />
+:arrow_forward: [Siemens page](http://w3.siemens.com/topics/global/en/data-centers/pages/data-centers.aspx<br />
 :orange_book: [Datacenter Clarity LC for colocation owners and tenants](https://www.downloads.siemens.com/download-center/Download.aspx?pos=download&fct=getasset&id1=A6V10576517)
 
 ## <a name = "dceye"></a> [DCeye](http://www.athenta.com/dcim.html) by Athenta
