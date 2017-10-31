@@ -127,7 +127,7 @@
 > Datacenter Clarity LC™ allows colocation owners to increase the efficiency of their data centers through advanced monitoring, automated billback reporting and SLA management. It offers colocation tenants real-time insight into their assets and their SLA compliance
 
 :arrow_forward: [Official demo](https://youtu.be/6IvzMlW2HjQ)<br />
-:arrow_forward: [Siemens page](http://w3.siemens.com/topics/global/en/data-centers/pages/data-centers.aspx<br />
+:arrow_forward: [Siemens page](http://w3.siemens.com/topics/global/en/data-centers/pages/data-centers.aspx)<br />
 :orange_book: [Datacenter Clarity LC for colocation owners and tenants](https://www.downloads.siemens.com/download-center/Download.aspx?pos=download&fct=getasset&id1=A6V10576517)
 
 ## <a name = "dceye"></a> [DCeye](http://www.athenta.com/dcim.html) by Athenta
