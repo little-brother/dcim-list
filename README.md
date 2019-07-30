@@ -43,7 +43,7 @@
 - [PowerDCM](#powerdcm) by AIT Partnership Group Ltd
 - [PYXIS DCIM Lite](#pyxis) by Jacarta
 - [Rackwise DCIM](#rackwise) by Rackwise
-- [RAMP DCIM](#ramp) by Tuangru
+- [RAMP DCIM](#ramp) by Hyperview
 - [RiZone DCIM](#rizone) by Rittal
 - [RunSmart](#runsmart) by RunSmart
 - [SmartZone](#smartzone) by Panduit
@@ -345,10 +345,11 @@
 
 :link: [What is Rackwise](http://www.rackwise.com/software/rackwise)
 
-## <a name = "ramp"></a> [RAMP DCIM](https://www.tuangru.com/) by Tuangru
+## <a name = "ramp"></a> [RAMP DCIM](https://www.hyperviewhq.com/dcim-software/) by Hyperview
 > Priced at just $1/asset/month, RAMP DCIM is the only DCIM with full auto-discovery, automated change management, software management, and the ability to monitor everything in the data center from virtual machines to IT equipment (servers, network, storage) to facilities equipment (power, cooling, and environmental).
 
-:orange_book: [Overview brochure](https://www.nolimitssoftware.com/wp-content/uploads/2015/04/Ramp-Overview.pdf)
+:arrow_forward: [Official videos](https://docs.hyperviewhq.com/videos/)
+:orange_book: [Documentation](https://docs.hyperviewhq.com/index.html)
 
 ## <a name = "rizone"></a> [RiZone DCIM](https://www.rittal.com/com-en/content/en/support/software/_berwachen/rizone/RiZone.jsp) by Rittal
 > RiZone is the DCIM platform for all components in a data centre infrastructure, from power supply and power distribution, to cooling, through to the security system. Thanks to its simple and fast configuration, RiZone is the ideal DCIM solution for data centres of all sizes.
