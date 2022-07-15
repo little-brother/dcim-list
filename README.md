@@ -24,6 +24,7 @@
 - [Geist DCIM](#geist) by Geist
 - [GFS Crane](#crane) by Greenfield Software
 - [Global Site Management (GSM)](#gsm) by Norlinx
+- [Hyperview Cloud-based DCIM](#hyperview) by Hyperview
 - [iCE DCIM](#ice) by iCE :ng:
 - [InSite](#insite) by AdInfa
 - [iTRACS DCIM](#itracs) by CommScope
@@ -43,7 +44,6 @@
 - [PowerDCM](#powerdcm) by AIT Partnership Group Ltd
 - [PYXIS DCIM Lite](#pyxis) by Jacarta
 - [Rackwise DCIM](#rackwise) by Rackwise
-- [Hyperview Cloud-based DCIM](#hyperview) by Hyperview
 - [RiZone DCIM](#rizone) by Rittal
 - [RunSmart](#runsmart) by RunSmart
 - [SmartZone](#smartzone) by Panduit
@@ -219,6 +219,12 @@
 :arrow_forward: [Video demo](https://youtu.be/DjzQqDbieQU)<br />
 :link: [Official youtube channel](https://www.youtube.com/user/NorlinxUSA)
 
+## <a name = "hyperview"></a> [Hyperview Cloud-based DCIM](https://www.hyperviewhq.com/) by Hyperview
+> Hyperview's cloud-based data center infrastructure management (DCIM) application is designed from the ground up to be easy to adopt and easy to use. It empowers enterprises to optimize capacity of their IT infrastructure, lower costs, and avoid outages. Hyperview allows users to automatically discover (agentless) their network-connected assets to gain an accurate and up-to-date inventory of all their devices. All data is captured and can then be monitored for changes. Starting at $100 per year.
+
+:arrow_forward: [Official videos](https://www.hyperviewhq.com/dcim-software-videos/)
+:orange_book: [Documentation](https://docs.hyperviewhq.com/index.html)
+
 ## <a name = "ice"></a>  [iCE DCIM](http://www.dcim.co/dcim) by iCE
 > Visual Data Center provides a software platform which enables customers to manage assets, model facilites, monitor IT and Facility equipment and manage workflow while scaling to multiple facilities in different geographies with tens of thousands of devices and data points. Users can visualize their data center assets using a desktop client, web interface or mobile platorm. 
 
@@ -344,12 +350,6 @@
 > Features: Green Data Center, Capacity Planning, Fault Impact Analysis, Trend and Historical Reporting, Virtual Machine Modeling, Visualization, Asset Management, Power Management, Cable Management, Real Time Monitoring, Modeling, Business Analytics
 
 :link: [What is Rackwise](http://www.rackwise.com/software/rackwise)
-
-## <a name = "hyperview"></a> [Hyperview Cloud-based DCIM](https://www.hyperviewhq.com/) by Hyperview
-> Hyperview's cloud-based data center infrastructure management (DCIM) application is designed from the ground up to be easy to adopt and easy to use. It empowers enterprises to optimize capacity of their IT infrastructure, lower costs, and avoid outages. Hyperview allows users to automatically discover (agentless) their network-connected assets to gain an accurate and up-to-date inventory of all their devices. All data is captured and can then be monitored for changes. Starting at $100 per year.
-
-:arrow_forward: [Official videos](https://www.hyperviewhq.com/dcim-software-videos/)
-:orange_book: [Documentation](https://docs.hyperviewhq.com/index.html)
 
 ## <a name = "rizone"></a> [RiZone DCIM](https://www.rittal.com/com-en/content/en/support/software/_berwachen/rizone/RiZone.jsp) by Rittal
 > RiZone is the DCIM platform for all components in a data centre infrastructure, from power supply and power distribution, to cooling, through to the security system. Thanks to its simple and fast configuration, RiZone is the ideal DCIM solution for data centres of all sizes.
