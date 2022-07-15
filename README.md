@@ -43,7 +43,7 @@
 - [PowerDCM](#powerdcm) by AIT Partnership Group Ltd
 - [PYXIS DCIM Lite](#pyxis) by Jacarta
 - [Rackwise DCIM](#rackwise) by Rackwise
-- [Hyperview Cloud-based DCIM](#ramp) by Hyperview
+- [Hyperview Cloud-based DCIM](#hyperview) by Hyperview
 - [RiZone DCIM](#rizone) by Rittal
 - [RunSmart](#runsmart) by RunSmart
 - [SmartZone](#smartzone) by Panduit
@@ -345,7 +345,7 @@
 
 :link: [What is Rackwise](http://www.rackwise.com/software/rackwise)
 
-## <a name = "ramp"></a> [Hyperview Cloud-based DCIM](https://www.hyperviewhq.com/) by Hyperview
+## <a name = "hyperview"></a> [Hyperview Cloud-based DCIM](https://www.hyperviewhq.com/) by Hyperview
 > Hyperview's cloud-based data center infrastructure management (DCIM) application is designed from the ground up to be easy to adopt and easy to use. It empowers enterprises to optimize capacity of their IT infrastructure, lower costs, and avoid outages. Hyperview allows users to automatically discover (agentless) their network-connected assets to gain an accurate and up-to-date inventory of all their devices. All data is captured and can then be monitored for changes. Starting at $100 per year.
 
 :arrow_forward: [Official videos](https://www.hyperviewhq.com/dcim-software-videos/)
